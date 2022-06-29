@@ -4,3 +4,6 @@ pkg install python2
 pkg install lolchat
 pkg install sh
 git clone https://spam/gabut.hasil/OpreT/GnAs
+cd kaset
+ls
+python gabutmase.py
